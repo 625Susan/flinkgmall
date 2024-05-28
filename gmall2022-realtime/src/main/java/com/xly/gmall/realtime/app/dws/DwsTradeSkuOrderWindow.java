@@ -4,7 +4,7 @@ import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
 import com.xly.gmall.realtime.app.func.DimAsyncFunction;
 import com.xly.gmall.realtime.beans.TradeSkuOrderBean;
-import com.atguigu.gmall.realtime.utils.*;
+import com.xly.gmall.realtime.utils.*;
 import com.xly.gmall.realtime.utils.DataFormatUtil;
 import com.xly.gmall.realtime.utils.MyClickhouseUtil;
 import com.xly.gmall.realtime.utils.MyKafkaUtil;
